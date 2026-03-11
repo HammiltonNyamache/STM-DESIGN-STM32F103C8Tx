@@ -65,4 +65,31 @@ A ferrite bead and filtering capacitors are used to isolate the analog supply (V
 ### Decoupling
 Multiple decoupling capacitors are placed near the MCU power pins to ensure stable operation.
 
-## Repository Structure
+
+## Tools Used
+- KiCad 9.0
+- STM32F103C8T6 Microcontroller
+- AMS1117-3.3 Voltage Regulator
+
+## Applications
+This board can be used for:
+
+- Embedded systems development
+- STM32 firmware experimentation
+- Learning ARM Cortex-M microcontrollers
+- Rapid prototyping
+- Educational embedded electronics projects
+
+## Author
+Designed as part of an embedded hardware design by HAMMILTON NYAMACHE project using KiCad.
+
+
+## PCB Design
+
+### Top Layer
+![Top PCB](images/PCBTOP.png)
+
+### Bottom Layer
+![Bottom PCB](images/PCBBOTTOM.png)
+
+
