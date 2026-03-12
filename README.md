@@ -87,9 +87,9 @@ Designed as part of an embedded hardware design by HAMMILTON NYAMACHE project us
 ## PCB Design
 
 ### Top Layer
-![Top PCB](images/PCBTOP.png)
+![Top PCB](IMAGES/PCBTOP.png)
 
 ### Bottom Layer
-![Bottom PCB](images/PCBBOTTOM.png)
+![Bottom PCB](IMAGES/PCBBOTTOM.png)
 
 
