@@ -85,6 +85,8 @@ Designed as part of an embedded hardware design project by HAMMILTON NYAMACHE  u
 
 
 ## PCB Design
+### Shcematic
+![Shematic Diagram](STM_32_DESIGN_SCHEMATIC.pdf)
 
 ### Top Layer
 ![Top PCB](IMAGES/PCBTOP.png)
