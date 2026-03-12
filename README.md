@@ -81,7 +81,7 @@ This board can be used for:
 - Educational embedded electronics projects
 
 ## Author
-Designed as part of an embedded hardware design by HAMMILTON NYAMACHE project using KiCad.
+Designed as part of an embedded hardware design project by HAMMILTON NYAMACHE  using KiCad.
 
 
 ## PCB Design
